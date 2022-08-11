@@ -5,7 +5,7 @@
 
 Full-stack software engineer in the General Assembly Software Engineering Immersive program. 
 
-From Long Island, NY. Fan of beer, games, beer games, travel. Enjoy building apps that encompass my interests!
+From Long Island, NY. Fan of beer, games, beer games, and travel. Enjoy building apps that encompass my interests!
 
 Portfolio link pending!
 
