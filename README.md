@@ -1,13 +1,11 @@
 ![Thai Sunset](https://i.imgur.com/HCiRxQW.png)
 
 # Steve Morello
-## scubastove4 | [LinkedIn](https://www.linkedin.com/in/stephen-morello/)
+## scubastove4 | [LinkedIn](https://www.linkedin.com/in/stephen-morello/) | [Portfoliio](https://stevemorello.netlify.app/)
 
-Full-stack software engineer in the General Assembly Software Engineering Immersive program. 
+Full-stack software engineer. Graduate of the General Assembly Software Engineering Immersive program. 
 
 From Long Island, NY. Fan of beer, games, beer games, and travel. Enjoy building apps that encompass my interests!
-
-Portfolio link pending!
 
 ⚡ Fun fact: I did all 3 Queenstown, NZ bungee jumps in 2 days
 
